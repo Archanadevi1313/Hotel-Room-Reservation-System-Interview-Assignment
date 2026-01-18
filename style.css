@@ -24,7 +24,7 @@ button:hover {
 
 #hotel {
   display: flex;
-  flex-direction: column-reverse; /* floor 10 on top */
+  flex-direction: column-reverse; 
   gap: 10px;
 }
 
@@ -64,4 +64,5 @@ button:hover {
 input[type="number"] {
   padding: 6px;
   width: 140px;
+
 }
